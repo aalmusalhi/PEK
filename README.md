@@ -1,0 +1,3 @@
+# PEK
+
+PEK is a game created for the [itch.io 2025 20 Second Game Jam](https://itch.io/jam/20-second-game-jam-2025 "itch.io 2025 20 Second Game Jam"). Our submission can be found (and played!) [here](https://oboroyo.itch.io/pek "here"). This repository hosts all the source code and assets created for the game. We built it with [LÖVE](https://love2d.org/ "LÖVE") and so the code will be predominantly written in Lua.
